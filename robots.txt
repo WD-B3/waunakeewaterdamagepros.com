@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waunakeewaterdamagepros.com/sitemap.xml
